@@ -12,3 +12,8 @@ Some overlays are taken directly from [steward-nds](https://github.com/steward-f
 | [Pokemon](https://raw.githubusercontent.com/AeolusUX/arkos-ndsoverlay-gallery/main/overlays/Pokemon.zip)                        | ![](https://github.com/AeolusUX/arkos-ndsoverlay-gallery/blob/main/assets/Pokemon/bg_vh_s0.png?raw=true)
 | [Stanczyk](https://raw.githubusercontent.com/AeolusUX/arkos-ndsoverlay-gallery/main/overlays/Stanczyk.zip)               | ![](https://github.com/AeolusUX/arkos-ndsoverlay-gallery/blob/main/assets/Stanczyk/bg_vh_s0.png?raw=true)
 | [Star Night](https://raw.githubusercontent.com/AeolusUX/arkos-ndsoverlay-gallery/main/overlays/Star%20night.zip)                        | ![](https://github.com/AeolusUX/arkos-ndsoverlay-gallery/blob/main/assets/Star%20night/bg_vh_c1.png?raw=true)
+
+
+# Donate
+🎮☕ Loving my work? Let’s power up together – buy me a coffee! 🕹️✨  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R7TMKNX)
